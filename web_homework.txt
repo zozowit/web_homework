@@ -40,3 +40,21 @@ http://demo.fishc.com/lesson5/tobeornottobe.html
 6.
 会
 换成绝对路径
+
+ 第006讲：给网页注入灵魂 
+
+0.
+没关系
+
+1.
+函数
+
+2.
+同时引用了外部脚本和直接在html中执行脚本
+
+3.
+script执行的时间点不同
+
+4.
+
+5.区分
